@@ -19,10 +19,10 @@
 ✅ 기술 면접 대비 자료 정리  
 
 ## 📌 Commit Message Convention
-- `feat(boj): 1000_A+B 문제 풀이`
-- `fix(programmers): LV2 조이스틱 문제 해결 방법 수정`
-- `docs(blog): SQL 인덱스 성능 최적화 글 추가`
-- `refactor(spring): JPA 코드 리팩토링`
+- `feat(boj): Solve 1000_A+B problem`
+- `fix(programmers): Fix solution for LV2 Joystick problem`
+- `docs(blog): Add post on SQL index performance optimization`
+- `refactor(spring): Refactor JPA code`
 
 ## 📜 기록 관리
 - `solved.log` → 푼 문제 목록 기록
