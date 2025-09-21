@@ -20,13 +20,16 @@ for team in itertools.combinations(player, n//2):
     if 0 not in team:
         continue
 
-    start = set(team)
-    link = set(player) - start
+    team_a = set(team)
+    team_b = set(player) - team_a
     
-    score_start = calc_score(start)
-    score_link = calc_score(link)
+    score_a = calc_score(team_a)
+    score_b = calc_score(team_b)
 
-    diff = abs(score_start - score_link)
+    diff = abs(score_a - score_b)
     min_diff = min(min_diff, diff)
+
+    if min_diff == 0:
+        break
 
 print(min_diff)
