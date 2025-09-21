@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/14889
-# 스타트와 링크
+# 스타트와 링크 - Brute Force
 
 import sys
 import itertools
