@@ -29,9 +29,9 @@ def dfs(depth, team_a):
         return
 
     for i in range(depth, n):
-        dfs(i + 1, team_a + [i])
         if min_diff == 0:
             break
+        dfs(i + 1, team_a + [i])
 
 dfs(1, [0])
 print(min_diff)
