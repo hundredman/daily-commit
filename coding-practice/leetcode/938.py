@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/range-sum-of-bst/description/
-# Range Sum of BST
+# Range Sum of BST - Depth-First Search
 
 # Definition for a binary tree node.
 class TreeNode:

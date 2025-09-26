@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/7562
-# 그래프 탐색을 이용하여 나이트의 최소 이동 횟수를 구하는 문제
+# 나이트의 이동 - Breadth-First Search
 
 import sys
 from collections import deque

@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/10834
-# 벨트간 회전수 비를 이용해 최종 바퀴의 회전수를 구하는 문제
+# 벨트
 
 n = int(input())
 

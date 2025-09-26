@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/1049
-# 주어진 기타줄을 최소로 사기 위한 그리디 알고리즘을 적용하는 문제
+# 기타줄 - Greedy
 
 n, m = map(int, input().split())
 

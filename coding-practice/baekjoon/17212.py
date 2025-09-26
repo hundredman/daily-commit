@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/17212
-# 1, 2, 5, 7원짜리 동전을 이용해 n원을 만드는 최소 동전 갯수를 구하는 문제
+# 달나라 토끼를 위한 구매대금 지불 도우미 - Dynamic Programming
 
 def remainder(n):
     coins = [1, 2, 5, 7]

@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/9546
-# 주어진 규칙에 맞게 정류장의 갯수에 따른 승객의 수를 구하는 문제
+# 3000번 버스
 
 def passengers(k):
     for i in range(k):

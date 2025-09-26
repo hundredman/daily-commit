@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/1260
-# DFS와 BFS를 구현하는 문제
+# DFS와 BFS - Depth-First Search, Breadth-First Search
 
 import sys
 from collections import deque
