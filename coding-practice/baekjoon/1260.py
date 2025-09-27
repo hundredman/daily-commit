@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/1260
-# DFS와 BFS - Depth-First Search, Breadth-First Search
+# DFS와 BFS - Graph Traversal
 
 import sys
 from collections import deque
