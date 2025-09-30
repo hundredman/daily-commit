@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/7562
-# 나이트의 이동 - Breadth-First Search
+# 나이트의 이동 - BFS
 
 import sys
 from collections import deque

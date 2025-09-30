@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/1260
-# DFS와 BFS - Graph Traversal
+# DFS와 BFS - DFS, BFS
 
 import sys
 from collections import deque

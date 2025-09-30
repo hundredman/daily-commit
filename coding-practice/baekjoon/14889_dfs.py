@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/14889
-# 스타트와 링크 - Depth-First Search
+# 스타트와 링크 - DFS
 
 import sys
 import itertools

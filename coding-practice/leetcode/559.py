@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/
-# Maximum Depth of N-ary Tree - Depth-First Search
+# Maximum Depth of N-ary Tree - DFS
 
 """
 # Definition for a Node.
