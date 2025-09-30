@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/longest-palindrome/
-# Longest Palindrome - Hash Ma
+# Longest Palindrome - Hash Map
 
 class Solution:
     def longestPalindrome(self, s: str) -> int:
