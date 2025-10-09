@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/15652
-# N과 M (4) - Combinations with Repetition
+# N과 M (4) - Backtracking
 
 import sys
 
