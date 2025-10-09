@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/15651
-# N과 M (3) - Backtracking with Repetition
+# N과 M (3) - Permutations with Repetition
 
 import sys
 
