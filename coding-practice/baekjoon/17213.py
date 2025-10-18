@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/17213
-# 
+# 생일 파티
 
 import math
 
