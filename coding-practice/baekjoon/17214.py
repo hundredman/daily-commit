@@ -48,7 +48,7 @@ if integrated_a != 0:
     else:
         result_parts.append(f"{integrated_a}xx")
 
-# x항 추가 (★★★ 오류를 수정한 부분 ★★★)
+# x항 추가
 if integrated_b != 0:
     sign = ""
     # 이미 앞에 항이 있고, 현재 항이 양수일 때만 '+'를 붙입니다.
